@@ -25,3 +25,5 @@ This project involves cleaning, analyzing, and visualizing food distribution dat
 ## Author
 **Akau Bior Alier** – Aspiring Data Analyst  
 Kakuma, Kenya
+ ![Alt text]https://github.com/JavierWolvie/POWER-BI/blob/main/Passport%20photo.jpeg
+ 
